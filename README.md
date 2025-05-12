@@ -10,7 +10,7 @@ This project analyzes crime data using an interactive Power BI dashboard, focusi
 
 ---
 
-**Dashboard Link:** https://app.powerbi.com/view?r=eyJrIjoiYWIwMTA4ZWMtMmI5NC00NDJiLWE2OTAtMmUxNDMwN2I2M2RiIiwidCI6ImQ5OTRjYjA2LTljOTYtNGUxMC05YTQ2LTg4ZGM1OTEyNjc0ZCIsImMiOjZ9
+**Dashboard Link:** https://app.powerbi.com/view?r=eyJrIjoiNTI5NjI2ZDgtYjMyYi00NzYzLWIyZmYtZmY0N2Y5OTgxMGM0IiwidCI6ImQ5OTRjYjA2LTljOTYtNGUxMC05YTQ2LTg4ZGM1OTEyNjc0ZCIsImMiOjZ9
 ## Dashboard Overview
 
 ### Page 1: Crime Trend Analysis
