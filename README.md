@@ -6,7 +6,7 @@ This project analyzes crime data using an interactive Power BI dashboard, focusi
 - **File:** `Crime_Data_From_2020_to_Present.csv`
 - **Records:** 735,000+
 - **Columns:** 18 (includes Date, Area, Crime Type, Weapon, Victim Info, etc.)
-- **Source:** Assumed cleaned version of open city crime data (e.g., LAPD or similar)
+- **Dataset Link:** https://drive.google.com/file/d/1NrC2SIJYReVeOgFfPySxIhlKpjo9CGlN/view?usp=drive_link
 
 ---
 
